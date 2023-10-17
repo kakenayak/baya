@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[----------Execution Started----------]]>
+    </line>
+    <line>
+      <![CDATA[----------Execution Completed----------]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-10-16T19:24:28 IST" name="Suite" finished-at="2023-10-16T19:24:54 IST" duration-ms="25413">
+    <groups>
+    </groups>
+    <test started-at="2023-10-16T19:24:28 IST" name="Test" finished-at="2023-10-16T19:24:54 IST" duration-ms="25413">
+      <class name="testcases.TC__1__ActitimeLogin">
+        <test-method is-config="true" signature="executionStart()[pri:0, instance:testcases.TC__1__ActitimeLogin@34e9fd99]" started-at="2023-10-16T19:24:28 IST" name="executionStart" finished-at="2023-10-16T19:24:28 IST" duration-ms="39" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[----------Execution Started----------]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- executionStart -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testcases.TC__1__ActitimeLogin@34e9fd99]" started-at="2023-10-16T19:24:28 IST" name="setup" finished-at="2023-10-16T19:24:43 IST" duration-ms="14468" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="login()[pri:0, instance:testcases.TC__1__ActitimeLogin@34e9fd99]" started-at="2023-10-16T19:24:43 IST" name="login" finished-at="2023-10-16T19:24:53 IST" duration-ms="10599" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testcases.TC__1__ActitimeLogin@34e9fd99]" started-at="2023-10-16T19:24:53 IST" name="teardown" finished-at="2023-10-16T19:24:54 IST" duration-ms="236" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="executionComplete()[pri:0, instance:testcases.TC__1__ActitimeLogin@34e9fd99]" started-at="2023-10-16T19:24:54 IST" name="executionComplete" finished-at="2023-10-16T19:24:54 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[----------Execution Completed----------]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- executionComplete -->
+      </class> <!-- testcases.TC__1__ActitimeLogin -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
